@@ -1,0 +1,109 @@
+
+START: Hashing string "test" salt "15606424dd00d9" required seconds "2.49"
+Result 88 chars: ZmSzLmp3MJAvMGyxAQqxAGZjZmt2ZGL5MzV5ZmR3BGOyZTSuZ2H1Mv1AISHlGHEMZR1dHzgnERS3JxEeCF02ZwV1
+Hashed in 2.8410220146179s
+test EQUALS TO ZmSzLmp3MJAvMGyxAQqxAGZjZmt2ZGL5MzV5ZmR3BGOyZTSuZ2H1Mv1AISHlGHEMZR1dHzgnERS3JxEeCF02ZwV1
+END: Hashing completed for test-ZmSzLmp3MJAvMGyxAQqxAGZjZmt2ZGL5MzV5ZmR3BGOyZTSuZ2H1Mv1AISHlGHEMZR1dHzgnERS3JxEeCF02ZwV1-2.49
+
+START: Hashing string "Numbers special chars: 1234567890 !@#$%^%&*()_+" salt "15606424dd00eb" required seconds "2.92"
+Result 88 chars: BGxkLGx4L2AvBTEvLwEvAwx0AmD2AGqvZ2SzZzVmLJH5MwyzA2LlAv1AISHlGHEMZR1dHzgnERS3JyqWCF03ZmNj
+Hashed in 3.4055931568146s
+Numbers special chars: 1234567890 !@#$%^%&*()_+ EQUALS TO BGxkLGx4L2AvBTEvLwEvAwx0AmD2AGqvZ2SzZzVmLJH5MwyzA2LlAv1AISHlGHEMZR1dHzgnERS3JyqWCF03ZmNj
+END: Hashing completed for Numbers special chars: 1234567890 !@#$%^%&*()_+-BGxkLGx4L2AvBTEvLwEvAwx0AmD2AGqvZ2SzZzVmLJH5MwyzA2LlAv1AISHlGHEMZR1dHzgnERS3JyqWCF03ZmNj-2.92
+
+START: Hashing string "Latin alphabet (upper): ABCDEFGHIJKLMNOPQRSTUVWXYZ" salt "15606424dd00ef" required seconds "2.3"
+Result 88 chars: AwZ0BQAvMGVlL2LkZQZ4A2Z4LwHjMJIxZwuvMQL4MQWxZQuuAzRkZl1AISHlGHEMZR1dHzgnERS3JyqMCF01AmHj
+Hashed in 2.7462949752808s
+Latin alphabet (upper): ABCDEFGHIJKLMNOPQRSTUVWXYZ EQUALS TO AwZ0BQAvMGVlL2LkZQZ4A2Z4LwHjMJIxZwuvMQL4MQWxZQuuAzRkZl1AISHlGHEMZR1dHzgnERS3JyqMCF01AmHj
+END: Hashing completed for Latin alphabet (upper): ABCDEFGHIJKLMNOPQRSTUVWXYZ-AwZ0BQAvMGVlL2LkZQZ4A2Z4LwHjMJIxZwuvMQL4MQWxZQuuAzRkZl1AISHlGHEMZR1dHzgnERS3JyqMCF01AmHj-2.3
+
+START: Hashing string "Latin alphabet (lower): abcdefghijklmnopqrstuvwxyz" salt "15606424dd00f3" required seconds "2.6"
+Result 88 chars: ZwZ0BGplZ2WzZTLmZGx1LJH1A2HlAmN5MQZ5LGAzMJSxMwDlAwuxLl1AISHlGHEMZR1dHzgnERS3JzcACF02AGNj
+Hashed in 3.0859129428864s
+Latin alphabet (lower): abcdefghijklmnopqrstuvwxyz EQUALS TO ZwZ0BGplZ2WzZTLmZGx1LJH1A2HlAmN5MQZ5LGAzMJSxMwDlAwuxLl1AISHlGHEMZR1dHzgnERS3JzcACF02AGNj
+END: Hashing completed for Latin alphabet (lower): abcdefghijklmnopqrstuvwxyz-ZwZ0BGplZ2WzZTLmZGx1LJH1A2HlAmN5MQZ5LGAzMJSxMwDlAwuxLl1AISHlGHEMZR1dHzgnERS3JzcACF02AGNj-2.6
+
+START: Hashing string "Cyrillic alphabet (lower): абвгдежзийклмнопрстуфхцчшщюя" salt "15606424dd00f7" required seconds "4.07"
+Result 92 chars: LGDjAJR2LJAwLGRmZGMzZ2WuMQp5ZzIxAwZkMzAuL2EyAQuyZwp3Lv1AISHlGHEMZR1dHzgnERS3JzcwCF0kZQR3AD==
+Hashed in 4.8214240074158s
+Cyrillic alphabet (lower): абвгдежзийклмнопрстуфхцчшщюя EQUALS TO LGDjAJR2LJAwLGRmZGMzZ2WuMQp5ZzIxAwZkMzAuL2EyAQuyZwp3Lv1AISHlGHEMZR1dHzgnERS3JzcwCF0kZQR3AD==
+END: Hashing completed for Cyrillic alphabet (lower): абвгдежзийклмнопрстуфхцчшщюя-LGDjAJR2LJAwLGRmZGMzZ2WuMQp5ZzIxAwZkMzAuL2EyAQuyZwp3Lv1AISHlGHEMZR1dHzgnERS3JzcwCF0kZQR3AD==-4.07
+
+START: Hashing string "Cyrillic alphabet (upper): АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЮЯ" salt "15606424dd00fc" required seconds "5.71"
+Result 92 chars: L2H1MJD4MGxjLwN1Z2AuAwV4ZwEzL2Z4ZmH4MJEzZwp4ZJLlLzZkZl1AISHlGHEMZR1dHzgnERS3Jz1ACF0kAQV3AD==
+Hashed in 7.0299251079559s
+Cyrillic alphabet (upper): АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЮЯ EQUALS TO L2H1MJD4MGxjLwN1Z2AuAwV4ZwEzL2Z4ZmH4MJEzZwp4ZJLlLzZkZl1AISHlGHEMZR1dHzgnERS3Jz1ACF0kAQV3AD==
+END: Hashing completed for Cyrillic alphabet (upper): АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЮЯ-L2H1MJD4MGxjLwN1Z2AuAwV4ZwEzL2Z4ZmH4MJEzZwp4ZJLlLzZkZl1AISHlGHEMZR1dHzgnERS3Jz1ACF0kAQV3AD==-5.71
+
+START: Hashing string "Greek alphabet (lower): αβγδϵζηθικλμνξοπρστυϕχψω" salt "5606424dd0100" required seconds "2.89"
+Result 88 chars: MQt5ZGDlZzAvMQZ3AwMzZwD0LzMxLGMxL2AwLwp0BGIuAQyzZQEwLl1BISy3GzcErH5UHzgAERI3GHR9CF03ZwV1
+Hashed in 3.471862077713s
+Greek alphabet (lower): αβγδϵζηθικλμνξοπρστυϕχψω EQUALS TO MQt5ZGDlZzAvMQZ3AwMzZwD0LzMxLGMxL2AwLwp0BGIuAQyzZQEwLl1BISy3GzcErH5UHzgAERI3GHR9CF03ZwV1
+END: Hashing completed for Greek alphabet (lower): αβγδϵζηθικλμνξοπρστυϕχψω-MQt5ZGDlZzAvMQZ3AwMzZwD0LzMxLGMxL2AwLwp0BGIuAQyzZQEwLl1BISy3GzcErH5UHzgAERI3GHR9CF03ZwV1-2.89
+
+START: Hashing string "Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ" salt "5606424dd0104" required seconds "2.64"
+Result 88 chars: Amx0LwZjATSwMJH3AGD0LwRkMwExMwIxAwt5LJZmMGqyA2MzAGHlAl1BISy3GzcErH5UHzgAERI3GxR9CF02AwNj
+Hashed in 3.1703479290009s
+Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ EQUALS TO Amx0LwZjATSwMJH3AGD0LwRkMwExMwIxAwt5LJZmMGqyA2MzAGHlAl1BISy3GzcErH5UHzgAERI3GxR9CF02AwNj
+END: Hashing completed for Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ-Amx0LwZjATSwMJH3AGD0LwRkMwExMwIxAwt5LJZmMGqyA2MzAGHlAl1BISy3GzcErH5UHzgAERI3GxR9CF02AwNj-2.64
+
+START: Hashing string "Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ" salt "" required seconds "2.89"
+Result 88 chars: ZmMuAmR0MGp2LwL2MJSxZmD5AzHjMTAuLJRmAmL2MGZkZzIyLJMuAF1AISHlGHEMZR1dnTyBZxxmJJ1ICF03ZwV1
+Hashed in 3.4666450023651s
+Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ EQUALS TO ZmMuAmR0MGp2LwL2MJSxZmD5AzHjMTAuLJRmAmL2MGZkZzIyLJMuAF1AISHlGHEMZR1dnTyBZxxmJJ1ICF03ZwV1
+END: Hashing completed for Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ-ZmMuAmR0MGp2LwL2MJSxZmD5AzHjMTAuLJRmAmL2MGZkZzIyLJMuAF1AISHlGHEMZR1dnTyBZxxmJJ1ICF03ZwV1-2.89
+
+START: Hashing string "test with defaults
+Result 88 chars: AGR5Mwx0ZQSwAwH1MQD3MJWxZ2LmBQp3ZTAvMQAzZJD2MwVmAGNjBF1AISHlGHEMZR1dn3yBnzfjGacSCF03AGNj
+Hashed in 3.5802998542786s
+test EQUALS TO AGR5Mwx0ZQSwAwH1MQD3MJWxZ2LmBQp3ZTAvMQAzZJD2MwVmAGNjBF1AISHlGHEMZR1dn3yBnzfjGacSCF03AGNj
+END: Hashing completed for test
+
+START: Hashing string "Numbers special chars: 1234567890 !@#$%^%&*()_+ with defaults
+Result 88 chars: LGIzZ2VjMGN1Z2V5ZTRlLzWwA2SvBQL0BGWvBQEvLwH1MQMuAQNjLv1AISHlGHEMZR1dnmICIRWfJz1ICF03AGNj
+Hashed in 3.5897550582886s
+Numbers special chars: 1234567890 !@#$%^%&*()_+ EQUALS TO LGIzZ2VjMGN1Z2V5ZTRlLzWwA2SvBQL0BGWvBQEvLwH1MQMuAQNjLv1AISHlGHEMZR1dnmICIRWfJz1ICF03AGNj
+END: Hashing completed for Numbers special chars: 1234567890 !@#$%^%&*()_+
+
+START: Hashing string "Latin alphabet (upper): ABCDEFGHIJKLMNOPQRSTUVWXYZ with defaults
+Result 88 chars: AJZ0AQR2ZzLlLwqwZTSxMzDmMzEwMzDjA2IxAwN2A2AzAGSyLwL0AF1AISHlGHEMZR1gEKqMoH0kG1EWCF03AGNj
+Hashed in 3.5833311080933s
+Latin alphabet (upper): ABCDEFGHIJKLMNOPQRSTUVWXYZ EQUALS TO AJZ0AQR2ZzLlLwqwZTSxMzDmMzEwMzDjA2IxAwN2A2AzAGSyLwL0AF1AISHlGHEMZR1gEKqMoH0kG1EWCF03AGNj
+END: Hashing completed for Latin alphabet (upper): ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+START: Hashing string "Latin alphabet (lower): abcdefghijklmnopqrstuvwxyz with defaults
+Result 88 chars: LmH3MTR1MTEyMJHmAmIuZGR0AzIvAGIuZ2MwBJMwAQtjLGMxAGAxLl1AISHlGHEMZR1gEGAnISx1Gz1WCF03AGNj
+Hashed in 3.5884149074554s
+Latin alphabet (lower): abcdefghijklmnopqrstuvwxyz EQUALS TO LmH3MTR1MTEyMJHmAmIuZGR0AzIvAGIuZ2MwBJMwAQtjLGMxAGAxLl1AISHlGHEMZR1gEGAnISx1Gz1WCF03AGNj
+END: Hashing completed for Latin alphabet (lower): abcdefghijklmnopqrstuvwxyz
+
+START: Hashing string "Cyrillic alphabet (lower): абвгдежзийклмнопрстуфхцчшщюя with defaults
+Result 88 chars: AmWxMGL0BGL2A2D0AGZ3LGqxZmL3BJSwZmWxZmxkMwRjBTLkZQt4BF1AISHlGHEMZR1gEz1AI1WcJxqMCF03AGNj
+Hashed in 3.5995969772339s
+Cyrillic alphabet (lower): абвгдежзийклмнопрстуфхцчшщюя EQUALS TO AmWxMGL0BGL2A2D0AGZ3LGqxZmL3BJSwZmWxZmxkMwRjBTLkZQt4BF1AISHlGHEMZR1gEz1AI1WcJxqMCF03AGNj
+END: Hashing completed for Cyrillic alphabet (lower): абвгдежзийклмнопрстуфхцчшщюя
+
+START: Hashing string "Cyrillic alphabet (upper): АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЮЯ with defaults
+Result 88 chars: LzD5AQAzZwD1BJHmLmWwLwxkLGRjATH1MJV2ATMwATL5MzZlZJRjZP1AISHlGHEMZR1gFGWBE1RmGHEWCF03AGNj
+Hashed in 3.5906991958618s
+Cyrillic alphabet (upper): АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЮЯ EQUALS TO LzD5AQAzZwD1BJHmLmWwLwxkLGRjATH1MJV2ATMwATL5MzZlZJRjZP1AISHlGHEMZR1gFGWBE1RmGHEWCF03AGNj
+END: Hashing completed for Cyrillic alphabet (upper): АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЮЯ
+
+START: Hashing string "Greek alphabet (lower): αβγδϵζηθικλμνξοπρστυϕχψω with defaults
+Result 88 chars: BTWxZwLmLzVmATHmLmN3LzAxMGEzA2HjZQLmMGLkZQWvMzDkAmVkLl1AISHlGHEMZR1gFzgCETugJxEOCF03AGNj
+Hashed in 3.6060788631439s
+Greek alphabet (lower): αβγδϵζηθικλμνξοπρστυϕχψω EQUALS TO BTWxZwLmLzVmATHmLmN3LzAxMGEzA2HjZQLmMGLkZQWvMzDkAmVkLl1AISHlGHEMZR1gFzgCETugJxEOCF03AGNj
+END: Hashing completed for Greek alphabet (lower): αβγδϵζηθικλμνξοπρστυϕχψω
+
+START: Hashing string "Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ with defaults
+Result 88 chars: ZwZ1LJEyAJSwAzR4ATWxMzHjZTSxMTR0ZJEyAGNkAGplAzHlAGWxZv1AISHlGHEMZR1gGGOMZxI3JJcwCF03AGNj
+Hashed in 3.5815780162811s
+Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ EQUALS TO ZwZ1LJEyAJSwAzR4ATWxMzHjZTSxMTR0ZJEyAGNkAGplAzHlAGWxZv1AISHlGHEMZR1gGGOMZxI3JJcwCF03AGNj
+END: Hashing completed for Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+
+START: Hashing string "Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ with defaults
+Result 88 chars: L2Z1ATHjBTLmAQN4LzDjAGx0MQAzZTMuLmR2ZQxkATD5MzAuMQp5AF1AISHlGHEMZR1gGzynnx0lGJcaCF03AGNj
+Hashed in 3.5852229595184s
+Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ EQUALS TO L2Z1ATHjBTLmAQN4LzDjAGx0MQAzZTMuLmR2ZQxkATD5MzAuMQp5AF1AISHlGHEMZR1gGzynnx0lGJcaCF03AGNj
+END: Hashing completed for Greek alphabet (upper): ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩ
+
