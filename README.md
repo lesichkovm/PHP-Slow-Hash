@@ -14,27 +14,39 @@ and will return bollean (true or false) if it matches.
 The class can safely hash non-ASCII strings, and salts. For instance,
 Cyrillic, or Greek alphabets were tested successfully.
 
+This is standalone class with no external dependencies.
+
 Installation
 ============
 
 Copy file to directory of your choice, and include at beginning of script
 
+```php
+<?php
+require_once("SlowHash.php");
+```
 
 How to use:
 ============
 
 1) To hash a string
 
+```php
 $string = "My Test String"; // String to hash
 $salt = uniqueid(true);     // Unique salt
 $seconds = 2.3;             // Minimum time in seconds required for hashing (may be floating number, i.e. 2.3s) 
 
 $hash = SlowHash::($string, $salt, $seconds);
+```
 
 2) To compare string to a hash
 
+```php
 $equals = SlowHash::equals($string, $hash);
+```
 
 3) To use defaults. Defaults will automatically generate salt, and will be generated in no less than 3 seconds
 
+```php
 $hash = SlowHash::hash($string);
+```
