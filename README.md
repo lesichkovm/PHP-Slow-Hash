@@ -12,9 +12,11 @@ The class has a "equals" function, which will compare a string with the hash,
 and will return bollean (true or false) if it matches.
 
 The class can safely hash non-ASCII strings, and salts. For instance,
-Cyrillic, or Greek alphabets were tested successfully.
+Cyrillic, or Greek alphabets were tested successfully. Test results can be
+seen here:
+https://github.com/lesichkovm/PHP-Slow-Hash/blob/master/test/test_output.txt
 
-This is standalone class with no external dependencies.
+This is standalone class with no external dependencies, and requirements.
 
 Installation
 ============
